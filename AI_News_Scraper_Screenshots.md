@@ -1,4 +1,4 @@
-# <a name="top"></a> AI News Scraper
+# <a name="top"></a> AI News Scraper Administor Interface
 Published:  2025-12-13<br>
 
 ### [Project Page](https://
