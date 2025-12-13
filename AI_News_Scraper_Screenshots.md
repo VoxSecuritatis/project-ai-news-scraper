@@ -1,7 +1,7 @@
 # <a name="top"></a> AI News Scraper Administor Interface
 Published:  2025-12-13<br>
 
-### [Project Page](https://
+### [Project Page](https://github.com/VoxSecuritatis/project-ai-news-scraper)
 
 ---
 
