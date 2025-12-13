@@ -2,7 +2,7 @@
 
 ## Short Description
 
-**AI News Scraper** is an automated content aggregation platform that monitors AI, machine learning, and data science news from 10 curated sources including blogs, RSS feeds, and YouTube channels. The system uses OpenAI's GPT-4o-mini to generate intelligent summaries with key insights, categorizes content automatically, and deduplicates articles across sources. Every day at 7:30 AM, subscribers receive a beautifully formatted email digest featuring the most relevant AI news with summaries, bullets, and explanations of why each article matters. Built with FastAPI, Next.js, PostgreSQL, and Docker, it provides a modern admin dashboard for source management and runs entirely self-hosted with complete data privacy.
+**AI News Scraper** is an automated content aggregation platform that monitors AI, machine learning, and data science news from 10 curated sources including blogs, RSS feeds, and YouTube channels. The system uses OpenAI's GPT-4o-mini to generate intelligent summaries with key insights, categorizes content automatically, and deduplicates articles across sources. Every day at 7:30 AM, subscribers receive a beautifully formatted email digest featuring the most relevant AI news with summaries, bullets, and explanations of why each article matters. Built with FastAPI, Next.js, PostgreSQL, and Docker, it provides a modern admin dashboard for source management and runs entirely self-hosted.
 
 ---
 
