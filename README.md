@@ -15,6 +15,8 @@ Published:  2025-12-13 | Updated: 2025-12-14
 
 **AI News Scraper** is a production-ready, self-hosted news aggregation and intelligence platform designed specifically for AI, machine learning, and data science professionals who need to stay current with rapid industry developments. The platform automates the time-consuming process of monitoring multiple sources, reading lengthy articles, and identifying the most relevant content, condensing hours of daily research into a single, actionable 5-minute email digest.
 
+Consider that this description is based on the initial minimally viable product and the application is likely in a much more robust state at the time of reading this Executive Summary.
+
 ### The Problem
 
 The AI/ML field evolves at an unprecedented pace, with breakthrough research, new tools, and industry developments emerging daily across dozens of sources - academic papers, corporate blogs, YouTube channels, and community forums. Professionals face information overload: following 10+ sources manually takes 2-3 hours daily, critical developments get missed in the noise, and determining what's truly important requires deep expertise and context that's hard to maintain across the entire field.
@@ -87,6 +89,8 @@ Post-MVP enhancements planned include:
 - Mobile app for digest reading on-the-go
 - Custom digest templates and scheduling
 - Analytics dashboard showing trends and reading patterns
+- Cloud enabled application
+- Add more features, such as new fitlers
 
 ### Getting Started
 
