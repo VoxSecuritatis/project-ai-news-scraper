@@ -1,5 +1,5 @@
-# <a name="top"></a> AI News Scraper Administor Interface
-Published:  2025-12-13<br>
+# <a name="top"></a> AI News Scraper Application Interface
+Published:  2025-12-13 | Updated: 2025-12-14<br>
 
 ### [Project Page](https://github.com/VoxSecuritatis/project-ai-news-scraper)
 
