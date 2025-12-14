@@ -1,4 +1,4 @@
-# AI News Scraper - Application Description
+# Project:  AI News Scraper
 
 ## Short Description
 
