@@ -97,3 +97,7 @@ The platform runs entirely via Docker Compose and can be deployed in under 10 mi
 **AI News Scraper** transforms the overwhelming task of staying current in AI/ML from a multi-hour daily burden into an automated, intelligent process that delivers exactly what you need to know, when you need to know it. By combining robust engineering, AI-powered intelligence, and user-centric design, it provides professional-grade information management that scales from individual researchers to entire organizations—all while maintaining complete data privacy and control through self-hosting.
 
 The successful MVP delivery with 100% of core features operational demonstrates both technical execution and real-world utility. The platform is ready for immediate use and positioned for continued enhancement based on user feedback and evolving needs in the rapidly advancing AI field.
+
+---
+
+© 2025 Brock Frary. All rights reserved.
