@@ -27,11 +27,18 @@ These are the Sources the email digest pulls from.  It is customizable to the en
 ---
 
 ### Items & Categories
-<img src="https://imgur.com/EXBtDjV.jpg" height="80%" width="80%" alt="Items"/>
+<img src="https://imgur.com/2pRKw0B.jpg" height="80%" width="80%" alt="Items"/>
 This is the Items window.  Here are the actual articles, videos, etc. retrieved/scraped from the Internet for inclusion in the email Digest.  This is the most important feature of the application.
 <br><br>
-7) This page shows all of the retrieved articles and keeps the summary in the database if you wish to go back in time to review <br>
-8) The Runs menu item will take you to the Runs windows <br><br>
+These are the various components of the Items window:<br>
+1)  Article title and hyperlink<br>
+2)  Tags - great for searching<br>
+3)  Date and timestamp of the article<br>
+4)  Comprehensive summary of the article and why it matters<br>
+5)  The author of the article<br>
+6)  The source ID - this is the Source that hosts the article<br>
+7)  Whether it is included in the email Digest <br>
+8)  The Runs menu item will take you to the Runs windows <br><br>
 
 <img src="https://imgur.com/hWtEuaq.jpg" height="80%" width="80%" alt="Categories"/>
 These are the Categories which organize the retrieved items.
