@@ -1,4 +1,5 @@
 # Project:  AI News Scraper
+Published:  2025-12-13 | Updated: 2025-12-14
 
 ## Short Description
 
