@@ -31,7 +31,7 @@ AI News Scraper provides a comprehensive, intelligent aggregation pipeline that:
 
 4. **Daily Email Digests**: Every morning at 7:30 AM, subscribers receive a professionally formatted HTML email digest featuring yesterday's most important developments, grouped by category, with direct links to source material. Digests adapt to content volume—from 3-5 critical items on quiet days to 15+ during major announcement periods.
 
-5. **Modern Admin Dashboard**: A Next.js web interface provides complete control—add/edit/disable sources, trigger manual ingestion, view all content with filtering by date/source/category/tags, monitor ingestion runs and system health, and preview digest content before sending.
+5. **Modern Admin Dashboard**: A Next.js web interface provides complete control - add/edit/disable sources, trigger manual ingestion, view all content with filtering by date/source/category/tags, monitor ingestion runs and system health, and preview digest content before sending.
 
 ### Technical Architecture
 
@@ -57,9 +57,9 @@ As of December 13, 2025, the platform has achieved full MVP status with all core
 
 ### Key Differentiators
 
-1. **Self-Hosted & Private**: Unlike SaaS aggregators, all data remains under user control—no third-party tracking, no data mining, no vendor lock-in. Perfect for enterprise compliance requirements.
+1. **Self-Hosted & Private**: Unlike SaaS aggregators, all data remains under user control - no third-party tracking, no data mining, no vendor lock-in. Perfect for enterprise compliance requirements.
 
-2. **AI-First Design**: Not just RSS feeds—every piece of content is enriched with GPT-generated insights that explain significance and save reading time.
+2. **AI-First Design**: Not just RSS feeds - every piece of content is enriched with GPT-generated insights that explain significance and save reading time.
 
 3. **Customizable & Extensible**: Clean architecture with adapter pattern makes adding sources trivial. JSON configuration files allow non-technical users to modify behavior. Open source under MIT license encourages community contributions.
 
@@ -75,7 +75,7 @@ As of December 13, 2025, the platform has achieved full MVP status with all core
 
 ### Business Value
 
-For a professional earning $150K/year ($75/hour), the platform saves approximately 1.5 hours daily (manual source monitoring and reading), equating to **$112.50 daily or $29,250 annually in productivity gains**. The system also reduces the risk of missing critical developments that could impact business strategy, research direction, or competitive positioning—value that's harder to quantify but potentially far greater.
+For a professional earning $150K/year ($75/hour), the platform saves approximately 1.5 hours daily (manual source monitoring and reading), equating to **$112.50 daily or $29,250 annually in productivity gains**. The system also reduces the risk of missing critical developments that could impact business strategy, research direction, or competitive positioning - value that's harder to quantify but potentially far greater.
 
 ### Future Roadmap
 
